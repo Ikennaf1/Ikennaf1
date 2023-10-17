@@ -17,6 +17,8 @@ A JavaScript package to easily and unintrusively add customizable dark mode to a
 
 - [NPM](https://npmjs.com/package/blinds)
 
+- [Documentation](https://blindsjs.dev/documentation)
+
 <!---
 - 👋 Hi, I’m @Ikennaf1
 - 👀 I’m interested in ...
