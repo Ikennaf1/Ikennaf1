@@ -1,4 +1,4 @@
-# Ikenna Felix Isiogu
+# Ikenna Isiogu
 I mostly enjoy creating tools for developers and creators, in order to make our work easier.
 
 Some of these tools are included under the projects below.
