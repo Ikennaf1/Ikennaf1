@@ -1,7 +1,7 @@
 # Ikenna Isiogu
-I mostly enjoy creating tools for developers and creators, in order to make our work easier.
+I mostly create tools for developers and creators.
 
-Some of these tools are included under the projects below.
+Some of these tools are listed below.
 
 ## Projects
 
