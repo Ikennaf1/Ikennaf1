@@ -5,10 +5,17 @@ Some of these tools are listed below.
 
 ## Projects
 
-### Blasta Framework
+### Nidavel Framework
 A content management system built from Laravel. Think of it as WordPress for Laravel with the ability to generate static content of the whole website.
 
-- [Repository](https://github.com/Ikennaf1/blasta)
+- [Repository](https://github.com/nidavel/nidavel)
+- [Website](https://nidavel.com)
+- [Blog](https://blog.nidavel.com)
+
+### Twenty twenty four
+A simple theme for the Blasta framework.
+
+- [Repository](https://github.com/Ikennaf1/twenty-twenty-four)
 
 ### Twenty twenty three
 A simple theme for the Blasta framework.
