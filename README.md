@@ -13,12 +13,12 @@ A content management system built from Laravel. Think of it as WordPress for Lar
 - [Blog](https://blog.nidavel.com)
 
 ### Twenty twenty four
-A simple theme for the Blasta framework.
+A simple theme for the Nidavel framework.
 
 - [Repository](https://github.com/Ikennaf1/twenty-twenty-four)
 
 ### Twenty twenty three
-A simple theme for the Blasta framework.
+A simple theme for the Nidavel framework.
 
 - [Repository](https://github.com/Ikennaf1/twenty-twenty-three)
 
